@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+  - caption: Quick Start
+    chapters:
+    - file: Installation
+
+  - caption: Introduction
+    chapters:
+    - file: DefineNeuronsAndSynapses
+    - file: DefineCircuit
