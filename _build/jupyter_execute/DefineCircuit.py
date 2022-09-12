@@ -120,7 +120,7 @@ c1.reset_circuit()
 # In[14]:
 
 
-c1.execute_circuit(t)
+c1.execute_circuit(t, notebook=True)
 
 
 # In[15]:

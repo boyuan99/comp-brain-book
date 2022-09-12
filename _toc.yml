@@ -13,3 +13,4 @@ parts:
     chapters:
     - file: DefineNeuronsAndSynapses
     - file: DefineCircuit
+    - file: UseConfigFile
